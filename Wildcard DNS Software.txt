@@ -1,0 +1,6 @@
+https://mayakron.altervista.org/support/acrylic/Home.htm
+
+Host File Example
+
+127.0.0.1 localhost localhost.localdomain *.local *.lc
+::1 localhost localhost.localdomain *.local *.lc
